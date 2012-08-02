@@ -1,0 +1,27 @@
+Processing Workshop 8/1/12
+
+
+-Install Processing
+
+-Processing interface
+
+-talk about code:
+	-only language that IS the action it describes
+	-ultra-microwaved history of binary -> assembly -> higher-level language
+	-top to bottom
+-setup/draw
+-lines & syntax rules (strict punctuation)!!
+-algebra
+	-solving algebraic problems in stupid ways
+	-computational cycles
+	-all the computer knows how to do (literally)
+	-add abstraction (multiplication)
+-no more theory
+	-draw some things
+	-show documentation
+	-make the things move
+	-make the things bounce
+-where to declare variables	
+	
+
+	
