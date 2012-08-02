@@ -1,0 +1,44 @@
+Things that programming can do:
+
+Physical computing: (Arduino:http://www.arduino.cc/)
+http://www.youtube.com/watch?v=uksJEswF2hM
+http://www.the-product.org/soundmachines
+Interaction:
+http://balldroppings.com/js/
+Vision:
+http://3xw.ole.kristensen.name/works/body-navigation/
+Graphics:
+http://wearechopchop.com/%E2%80%9Cunnamed-soundsculpture%E2%80%9D/
+www.openprocessing.com
+Network:
+http://www.wefeelfine.org/
+http://max-planck-research-networks.net/
+
+Programming and Programming Languages
+same concept, different ways.
+Easier than English or Chinese.
+
+The difference between programming and painting
+If it doesn't work, it doesn't work.
+If it works, it works forever.
+
+Algorithm and logic
+loop and if...else
+
+Libraries
+manual and open-source
+
+Environment
+Always the 1st thing to check
+
+Reading codes
+Pros and cons; comments
+
+Testing and Debugging
+This is the true evil part, but after this, nothing can beat you. 
+
+Open question: 
+Programming is engineering, can it be art?
+
+FAQs:
+How long do I need to learn programming? (For me, it is like "how long do I need to learn drawing")
